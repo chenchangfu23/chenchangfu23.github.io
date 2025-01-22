@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* M.S. in University of Minnesota, 2026
-* B.S. in King's College London, 2024
+* M.S. in Biostatistics, University of Minnesota, 2026
+* B.S. in Mathematics and Finance, King's College London, 2024
 
 
 
